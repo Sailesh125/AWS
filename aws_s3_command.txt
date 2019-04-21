@@ -1,0 +1,7 @@
+     aws --help
+     aws s3 ls
+     aws s3 mb s3://badal22224
+     aws s3 rb s3://badal22224
+     aws s3 sync . s3://bucket22419
+     aws s3 rm s3://bucket22419 --recursive --exclude s3_practice.sh
+     aws s3 cp ./single.txt s3://bucket22419
