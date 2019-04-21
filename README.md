@@ -1,2 +1,2 @@
 # AWS
-In this repository we will store AWS codes
+In this repository we will store AWS CLI instructions 
