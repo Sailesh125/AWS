@@ -1,3 +1,4 @@
+     #these commands are useful for s3
      aws --help
      aws s3 ls
      aws s3 mb s3://badal22224
